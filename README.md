@@ -4,4 +4,4 @@ Pour se faire, notre pédale est divisé en deux parties :
 -Un amplificateur du signal d'entrée avec un gain réglable à l'aide d'un potentiomètre  
 -Un étage d'écrêtage du signal réalisé à l'aide de diodes.  
 Pour ce projet, la pédale doit être alimentée en 9V.  
-
+https://barbarach.com/mxr-distortion-plus-on-breadboard/
